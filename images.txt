@@ -1,1 +1,1 @@
-openjdk:8-jre
+ghcr.io/open-webui/open-webui:main
