@@ -1,1 +1,1 @@
-redis
+openjdk:8-jre
