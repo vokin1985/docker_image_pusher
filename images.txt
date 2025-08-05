@@ -1,1 +1,1 @@
-jenkins/jenkins
+gitlab/gitlab-ce:latest
